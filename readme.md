@@ -12,7 +12,7 @@ Run `vagrant up`.
 
 Run `cp .env.example .env`
 
-Do `vagrant ssh` and run `php artisan migrate:fresh`.
+Do `vagrant ssh` cd to `/vagrant` and run `php artisan migrate:fresh`.
 
 Then the commands are:
 
